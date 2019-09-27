@@ -1,0 +1,7 @@
+
+- Thông tin môi trường cài đặt Java Spring Boot
+	+ JDK 1.8
+	+ Eclipse + Plugin Spring Tool Suite
+	+ Tomcat 8
+	+ MySQL
+
